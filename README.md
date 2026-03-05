@@ -1,27 +1,28 @@
-# Gestione Informazioni di Sede
+# Site Information Management
 
-Mi è stato chiesto di realizzare un applicativo web per la gestione degli annunci per la sede del CPT di Trevano con uno schermo già esistente davanti alla segreteria. Sullo schermo devono essere visualizzati le informazioni di sede e gli eventuali filmati/presentazioni in diversi formati (pdf e mp4). Per il momento nella sede della CPT non esiste un sistema informatizzato semplice da utilizzare, ma si usa un file che viene fatto partire in auto-load sullo schermo esterno. L’obiettivo richiesto è stato quindi di ottimizzare un sistema web, di facile utilizzo per il segretariato per la gestione e condivisioni delle sopracitate informazioni multimediali e testuali a video esterno.
-Mi è stato anche richiesto di valutare possibili sinergie con altri strumenti informatici utilizzati dal segretariato. In particolare, ho collaborato con un compagno di classe, Marco Lorusso, che si è occupato di sviluppare un sistema per la gestione degli eventi scolastici. 
+I was asked to create a web application for managing announcements for the CPT headquarters in Trevano using an existing screen in front of the secretary's office. The screen must display information about the headquarters and any videos/presentations in various formats (PDF and MP4). At present, the CPT headquarters does not have an easy-to-use computerized system, but instead uses a file that is auto-loaded onto the external screen. The objective was therefore to optimize a web-based system that would be easy for the secretariat to use for managing and sharing the aforementioned multimedia and text information on an external screen.
+I was also asked to evaluate possible synergies with other IT tools used by the secretariat. In particular, I collaborated with a classmate, Marco Lorusso, who was responsible for developing a system for managing school events. 
 
-## Responsabile del progetto
+
+## Project manager
 
 Fabrizio Valsangiacomo
 
 e-mail: [fabrizio.valsangiacomo@edu.ti.ch](mailto:fabrizio.valsangiacomo@edu.ti.ch)
 
-## Sviluppatore e programmatore
+## Developer and programmer
 
 Pierpaolo Casati
 
 e-mail: [pierpaolo.casati@samtrevano.ch](mailto:pierpaolo.casati@samtrevano.ch)
 
-## Durata del progetto
+## Project duration
 
 08.01.2021 - 21.04.2021
 
 ## Link
-- [Quaderno dei compiti](1_Qdc/QdC_Gestione%20delle%20%20informazioni%20di%20sede%20e%20filmati%20con%20visione%20via%20schermo%20esterno.pdf)
+- [Homework notebook](1_Qdc/QdC_Gestione%20delle%20%20informazioni%20di%20sede%20e%20filmati%20con%20visione%20via%20schermo%20esterno.pdf)
 - [Abstract](2_Abstract/Abstract%20-%20Gestione_informazioni_di_sede_PierpaoloCasati.pdf)
-- [Documentazione](3_Documentazione/Documentazione_CasatiPierpaolo.pdf)
-- [Diari di lavoro](4_Diari)
-- [Manuale d'uso](7_Allegati/Manuali/Manuale%20d'uso%20raspberry.pdf)
+- [Documentation](3_Documentazione/Documentazione_CasatiPierpaolo.pdf)
+- [Work diaries](4_Diari)
+- [User manual](7_Allegati/Manuali/Manuale%20d'uso%20raspberry.pdf)
